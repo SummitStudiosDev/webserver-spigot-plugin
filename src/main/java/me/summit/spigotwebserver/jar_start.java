@@ -1,4 +1,4 @@
-package me.summit.fastapi;
+package me.summit.spigotwebserver;
 
 import me.summit.spigotwebserver.server;
 
